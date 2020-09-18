@@ -5,3 +5,5 @@ Alexis   Kevin Rodriguez Ossa
 
 a. Alfa vera los cambios en su repositorio de Github cuando Gamma o Betta los suban a este.
 b. Si Alfa agrega un archivo el resto del grupo lo vera en el repositorio pero no en su carpeta local. 
+c. Los cambios realizados por beta fueron visibles para los demas integrantes del grupo.
+d. Nos comunicamos en grupo a través de whatsapp.
