@@ -7,3 +7,5 @@ a. Alfa vera los cambios en su repositorio de Github cuando Gamma o Betta los su
 b. Si Alfa agrega un archivo el resto del grupo lo vera en el repositorio pero no en su carpeta local. 
 c. Los cambios realizados por beta fueron visibles para los demas integrantes del grupo.
 d. Nos comunicamos en grupo a través de whatsapp.
+e. La mejor forma de comunicarse dentro del GitHub es mediante los commits, que se realizan 
+a la hora subir archivos, para indicarle a los demás los cambios que uno realizo. 
