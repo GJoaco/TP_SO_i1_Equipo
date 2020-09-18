@@ -3,5 +3,5 @@ Joaquin  Garcia
 Franco   Acquisto
 Alexis   Kevin Rodriguez Ossa
 
-1. Alfa vera los cambios en su repositorio de Github cuando Gamma o Betta los suban a este.
-2. Si Alfa agrega un archivo el resto del grupo lo vera en el repositorio pero no en su carpeta local. 
+a. Alfa vera los cambios en su repositorio de Github cuando Gamma o Betta los suban a este.
+b. Si Alfa agrega un archivo el resto del grupo lo vera en el repositorio pero no en su carpeta local. 
